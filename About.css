@@ -1,0 +1,11 @@
+body{
+background-image: url('assets/pascale-amez-1451111-unsplash.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+h1, p {
+  font-size: 1.5em;
+}
+
